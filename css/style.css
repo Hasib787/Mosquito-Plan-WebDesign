@@ -1,0 +1,381 @@
+.container{
+	margin: 0 auto;
+	padding: 0px;
+}
+header{
+	height:160px;
+	width: 100%;
+	background-color: white;
+}
+.logo {
+    float: left;
+    margin-top: 50px;
+    margin-left: 70px;
+}
+.logo img{
+	height: 85px;
+	width: 80px;
+}
+.headline{
+	text-align: center;
+	padding-top: 20px;
+	font-weight: bold;
+	font-size: 30px;
+	text-shadow: 1px 1px gray;
+}
+.info{
+	float: right;
+	font-weight: bold;
+	margin-right: 60px;
+	text-align: right;
+	margin-top: -20px;
+}
+.address{
+	height: 95px;
+	width: 100%;	
+}
+.service_address{
+	height: 95px;
+	width: 50%;
+	float: left;
+}
+.info_ber1{
+	height: 30px;
+	width: 97%;
+	background-color: #004d1a;
+	border-radius:17px 17px 0px 0px;
+	margin-left: 2%; 
+}
+.info_ber1 h3{
+	text-align: center;
+	margin-top:-1px;
+	color: white;
+} 
+.service_address p{
+	text-align: left;
+	margin-left: 15px;
+	margin-top: -1px;
+}
+.customer_info{
+		float: right;
+		height: 95px;
+		width: 50%;
+}
+.info_ber2{
+	height: 30px;
+	width:97%;
+	background-color: #004d1a;
+	border-radius:17px 17px 0px 0px;
+	margin-left: 10px;
+	margin-right: 10px;
+
+}
+.info_ber2 h3{
+	text-align: center;
+	margin-top:-1px;
+	color: white;
+}
+.customer_info_email a{
+	color: black;
+	text-decoration: none;
+	font-style: normal;
+	margin-left: 11px;
+}
+.customer_info_email p{
+	font-style: normal;
+	margin-left: 11px;
+	margin-top:-2px; 
+}
+.customer_info_email h4{
+	font-style: normal;
+	margin-left: 11px;
+	margin-top:-10px; 
+	font-weight: ;
+}
+.GuaranteedInsects_ber{
+	height: 30px;
+	width:97%;
+	margin-left:25px;
+	background-color: #004d1a;
+	border-radius:17px 17px 0px 0px;
+}
+.GuaranteedInsects_ber h3{
+	text-align: center;
+	color: white;	
+}
+.mosquitoes_info{
+	height: 50px;
+	width: 100%;
+}
+.mosquitoes_info img{
+	height: 33px;
+	width: 33px;
+	margin-left: 25px;
+	margin-top: 2px;
+}
+.mosquitoes_info p{
+		margin-top: -30px;
+		margin-left: 70px;
+		text-align: left;
+}
+.year_round{
+	height: 273px;
+	width: 100%;
+	margin-top: -18px;
+}
+.year_round_ber{
+	height: 30px;
+	width:95%;
+	margin-left:35px;
+	background-color: #004d1a;
+	border-radius:17px 17px 0px 0px;
+}	
+.year_round_ber h3{
+	text-align: center;
+	color: white;
+}
+.box1{
+	float: left;
+	height: 242px;
+	width: 45%;
+	margin-left: 2%;
+}
+.box2{
+	float: right;
+	height: 242px;
+	width: 32%;
+	margin-right: 2%;
+}
+.Mosquito_Plan{
+	height: 198px;
+	width: 100%;
+	margin-top: -12px;
+}
+.Mosquito_Plan_ber{
+	height: 30px;
+	width:95%;
+	margin-left:35px;
+	background-color: #004d1a;
+	border-radius:17px 17px 0px 0px;
+}
+.Mosquito_Plan_ber h3{
+	text-align: center;
+	color: white;
+}
+table, th, td {
+  border: 1px solid black;
+}
+.table1{
+	height: 70px;
+	width: 90%;
+	margin-top: 8px;
+	margin-left: 35px;
+	text-align: center;
+}
+.table1 th{
+	font-weight: bold;
+	color: white;
+	background-color: #004d1a;
+}
+.table2{
+	height: 70px;
+	width: 90%;
+	margin-top: 8px;
+	margin-left: 35px;
+	text-align: center;
+}
+.table2 th{
+	font-weight: bold;
+	color: white;
+	background-color: #004d1a;
+}
+.table2 tr{
+	height: 30px;
+}
+
+.Service{
+	 height: 150px;
+	 width: 100%;
+}
+.Initial_Service{
+	height: 95px;
+	width: 50%;
+	float: left;
+}
+.Initial_Service_ber{
+	height: 30px;
+	width: 95%;
+	background-color: #004d1a;
+	border-radius:17px 17px 0px 0px;
+	margin-left: 5%; 
+}
+.Initial_Service_ber h3{
+	text-align: center;
+	margin-top:-1px;
+	color: white;
+} 
+.Initial_Service_ber  .sub1 {
+	text-align: left;
+	margin-top: -1px;
+}
+.Initial_Service_ber  .value1{
+	text-align: right;
+	margin-top: -127px;
+
+}
+.Recurring_Services{
+	height: 95px;
+	width: 50%;
+	float: right;
+}
+.Recurring_Services_ber{
+	height: 30px;
+	width: 93%;
+	background-color: #004d1a;
+	border-radius:17px 17px 0px 0px;
+	margin-left: 2%;
+}
+.Recurring_Services_ber h3{
+	text-align: center;
+	margin-top:-1px;
+	color: white;
+}
+.Recurring_Services_ber  .sub2 {
+	text-align: left;
+	margin-top: -1px;
+}
+.Recurring_Services_ber  .value2{
+	text-align: right;
+	margin-top: -90px;
+	margin-right: 5px;
+
+}
+.green_pra{
+	height: 76px;
+	width: 96%;
+	background-color: #004d1a;
+	border-radius:17px;
+	margin-left: 2%;
+}
+.green_pra p{
+	text-align: left;
+	padding: 10px;
+    color: white;
+}
+.Payment{
+	 height: 103px;
+	 width: 100%;
+     margin-top: 13px;
+}
+.Billing_Info{
+	height: 95px;
+	width: 50%;
+	float: left;
+}
+.Billing_Info_ber{
+	height: 30px;
+	width: 95%;
+	background-color: #004d1a;
+	border-radius:17px 17px 0px 0px;
+	margin-left: 5%; 
+}
+.Billing_Info_ber h3{
+	text-align: center;
+	margin-top:-1px;
+	color: white;
+} 
+.Billing_Info_ber p {
+	text-align: left;
+	margin-top: -1px;
+}
+.Payment_Information{
+	height: 95px;
+	width: 50%;
+	float: right;
+}
+.Payment_Information_ber{
+	height: 30px;
+	width: 93%;
+	background-color: #004d1a;
+	border-radius:17px 17px 0px 0px;
+	margin-left: 2%;
+}
+.Payment_Information_ber h3{
+	text-align: center;
+	margin-top:-1px;
+	color: white;
+}
+.Payment_Information_ber  .sub2 {
+	text-align: left;
+	margin-top: -41px;
+}
+.credit_info{
+	height: 42px;
+    width: 40%;
+    margin-left: 433px;
+}
+.CONSUMER_info{
+	height: 436px;
+	width: 100%;
+
+}
+.CONSUMER_info_ber{
+	height: 30px;
+	width: 96%;
+	background-color: #004d1a;
+	border-radius:17px 17px 0px 0px;
+	margin-left: 2%;
+}
+.CONSUMER_info_ber h3{
+	text-align: center;
+	margin-top:-1px;
+	color: white;
+}
+.REDUCED_IMPACT{
+	height: 220px;
+	width: 100%;
+}
+.REDUCED_IMPACT_ber{
+	height: 30px;
+	width: 96%;
+	background-color: #004d1a;
+	border-radius:17px 17px 0px 0px;
+	margin-left: 2%;
+}
+.REDUCED_IMPACT_ber h3{
+	text-align: center;
+	margin-top:-1px;
+	color: white;
+}
+.WAIVER{
+	height: 120px;
+	width: 100%;
+}
+.WAIVER_ber{
+	height: 30px;
+	width: 96%;
+	background-color: #004d1a;
+	border-radius:17px 17px 0px 0px;
+	margin-left: 2%;
+}
+.WAIVER_ber h3{
+	text-align: center;
+	margin-top:-1px;
+	color: white;
+}
+.Sign_Agreement{
+	height: 100px;
+	width: 100%;
+}
+.Sign_Agreement_ber{
+	height: 30px;
+	width: 96%;
+	background-color: #004d1a;
+	border-radius:17px 17px 0px 0px;
+	margin-left: 2%;
+}
+.Sign_Agreement_ber h3{
+	text-align: center;
+	margin-top:-1px;
+	color: white;
+}
